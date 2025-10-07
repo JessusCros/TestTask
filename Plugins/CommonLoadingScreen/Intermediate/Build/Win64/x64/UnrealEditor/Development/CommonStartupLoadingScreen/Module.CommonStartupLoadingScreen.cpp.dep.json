@@ -1,0 +1,35 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonstartuploadingscreen\\module.commonstartuploadingscreen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\debuglyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonstartuploadingscreen\\definitions.commonstartuploadingscreen.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\commonstartuploadingscreen\\permoduleinline.gen.cpp",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.cpp",
+            "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonpreloadscreen.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenbase.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreen.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\analytics\\analyticset\\public\\ianalyticsprovideret.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\analytics\\analyticset\\public\\analyticset.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticsproviderconfigurationdelegate.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovidermodule.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticseventattribute.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\analytics\\analytics\\public\\analyticsconversion.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\analytics\\analytics\\public\\interfaces\\ianalyticsprovider.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\commonstartuploadingscreen.cpp",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\preloadscreen\\public\\preloadscreenmanager.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\slate\\public\\widgets\\svirtualwindow.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\preloadscreen\\public\\preloadslatethreading.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\applicationcore\\public\\hal\\platformapplicationmisc.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\applicationcore\\public\\windows\\windowsplatformapplicationmisc.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\genericplatformapplicationmisc.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\commonloadingscreen\\source\\commonstartuploadingscreen\\private\\scommonpreloadingscreenwidget.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

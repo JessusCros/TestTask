@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyraexttool\\module.lyraexttool.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\debuglyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyraexttool\\definitions.lyraexttool.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\lyraexttool.init.gen.cpp",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lyraexttool\\permoduleinline.gen.cpp",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\source\\lyraexttool\\private\\bpfunctionlibrary.cpp",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\source\\lyraexttool\\public\\bpfunctionlibrary.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\bpfunctionlibrary.generated.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\intermediate\\build\\win64\\unrealeditor\\inc\\lyraexttool\\uht\\bpfunctionlibrary.gen.cpp",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\source\\lyraexttool\\private\\lyraexttool.cpp",
+            "d:\\work\\debuglyrastartergame\\plugins\\lyraexttool\\source\\lyraexttool\\public\\lyraexttool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

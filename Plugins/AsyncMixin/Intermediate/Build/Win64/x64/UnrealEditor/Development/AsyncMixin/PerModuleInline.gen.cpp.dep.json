@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\debuglyrastartergame\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asyncmixin\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\debuglyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\work\\debuglyrastartergame\\plugins\\asyncmixin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\asyncmixin\\definitions.asyncmixin.h",
+            "d:\\ue\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

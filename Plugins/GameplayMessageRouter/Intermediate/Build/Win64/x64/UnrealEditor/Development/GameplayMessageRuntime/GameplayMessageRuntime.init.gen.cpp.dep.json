@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\debuglyrastartergame\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaymessageruntime\\uht\\gameplaymessageruntime.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\debuglyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\work\\debuglyrastartergame\\plugins\\gameplaymessagerouter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gameplaymessageruntime\\definitions.gameplaymessageruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

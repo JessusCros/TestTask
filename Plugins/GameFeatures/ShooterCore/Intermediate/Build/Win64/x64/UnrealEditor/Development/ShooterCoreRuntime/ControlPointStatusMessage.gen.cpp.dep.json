@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\work\\debuglyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\work\\debuglyrastartergame\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\work\\debuglyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootercoreruntime\\definitions.shootercoreruntime.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\gamefeatures\\shootercore\\source\\shootercoreruntime\\public\\messages\\controlpointstatusmessage.h",
+            "d:\\work\\debuglyrastartergame\\plugins\\gamefeatures\\shootercore\\intermediate\\build\\win64\\unrealeditor\\inc\\shootercoreruntime\\uht\\controlpointstatusmessage.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
